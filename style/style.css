@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lavender;
+}
+input {
+    width: 99%;
+    height: 130px;
+    font-size: xx-large;
+}
+
+form {
+    width: fit-content;
+    height: fit-content;
+    border: 9px solid purple;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+table {
+    border: 6px solid black;
+    width: fit-content;
+    text-align: center;
+}
+
+table td,
+table th {
+    border: 2px solid black;
+    padding: 40px;
+    margin: 20px;
+}
